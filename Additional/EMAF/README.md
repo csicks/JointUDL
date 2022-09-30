@@ -23,10 +23,11 @@
 ## Suggestions
 - In this version, `main.cpp` is modified to use output results of UDL/JUDL. The original version of `main.cpp` is renamed as `main_backup.cpp` in this folder.
 - In this version, the complied binary file and some information in `README` is removed. Please refer to http://www.csbio.sjtu.edu.cn/bioinf/EMAF/ for used datasets and more information.
+- EMAF at GitHub: https://github.com/csicks/EMAF.
 
 ## Others
 - All code is provided for research purpose and without any warranty. If you use  code or ideas from this project for your research, please cite our paper:
-  ```bibtex
+  ```
   @Article{Chen2021a,
   author    = {Chen, Yu-Xuan and Xie, Rui and Yang, Yang and He, Lin and Feng, Dagan and Shen, Hong-Bin},
   journal   = {J. Chem. Inf. Model.},
