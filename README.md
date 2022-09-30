@@ -9,8 +9,8 @@ We provide source code, used data and some additional support for our paper.
 ## Reference
 - Please refer to http://www.csbio.sjtu.edu.cn/bioinf/JointUDL/ for used datasets and more information.
 - All code is provided for research purpose and without any warranty. If you use code or ideas from this project for your research, please cite our paper: Cryo-EM image alignment: from pair-wise to joint with deep unsupervised difference learning, Yuxuan Chen, Dagan Feng, and Hong-Bin Shen (under review).
-- Early version at arXiv is:
-	'''
+- Early version at arXiv is at https://arxiv.org/abs/2205.11829 with bibtex:
+	```bibtex
 	@article{Chen2022UnsupervisedDL,
 	  title={Unsupervised Difference Learning for Noisy Rigid Image Alignment},
 	  author={Yu-Xuan Chen and Dagan Feng and Hongbin Shen},
@@ -18,4 +18,4 @@ We provide source code, used data and some additional support for our paper.
 	  year={2022},
 	  volume={abs/2205.11829}
 	}
-	'''
+	```
