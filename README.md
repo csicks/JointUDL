@@ -1,5 +1,5 @@
 # Cryo-EM image alignment: from pair-wise to joint with deep unsupervised difference learning
-[![DOI](https://img.shields.io/badge/doi-10.1021/acs.jcim.1c00745-blue.svg)](https://doi.org/10.1021/acs.jcim.1c00745)
+[![DOI](https://img.shields.io/badge/doi-10.1016/j.jsb.2023.107940-blue.svg)](https://doi.org/10.1016/j.jsb.2023.107940)
 
 ## Introduction
 We provide source code, used data and some additional support for our paper. 
