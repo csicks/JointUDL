@@ -194,12 +194,6 @@ def diff2bias_angle(output, target):
     return b
 
 
-def transform(data, t):
-    image = torch.unsqueeze(data[:, 1, :, :], dim=1)
-    image_t = spatial_transform_angle_nomask(image, t)
-    return image_t
-
-
 def train(epoch, model, train_loader, device, optimizer, scheduler, logger):
     model.train()
     total_loss = 0
